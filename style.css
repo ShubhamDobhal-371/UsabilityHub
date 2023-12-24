@@ -326,7 +326,7 @@ h5{
    
 }
 .p1{
-    background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/image/asset\ 36.png);
+    background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./image/asset\ 36.png);
     background-size: cover;
     display: flex;
     
@@ -342,7 +342,7 @@ h5{
 }
 
 .p2{
-    background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/image/asset\ 37.png);
+    background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./image/asset\ 37.png);
     background-size: cover;
     display: flex;
     
@@ -357,7 +357,7 @@ h5{
     
 }
 .p3{
-    background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/image/asset\ 38.png);
+    background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./image/asset\ 38.png);
     background-size: cover;
     display: flex;
     
@@ -372,7 +372,7 @@ h5{
     
 }
 .p4{
-    background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/image/asset\ 39.png);
+    background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./image/asset\ 39.png);
     background-size: cover;
     display: flex;
     
